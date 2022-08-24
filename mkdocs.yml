@@ -1,0 +1,12 @@
+site_name: Stackexchange Stats
+
+plugins:
+  - mkdocstrings
+
+theme:
+  name: "material"
+  
+nav:
+  - Cli: index.md
+  - Core: core.md
+  - Cmd: cmd.md

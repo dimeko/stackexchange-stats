@@ -1,0 +1,229 @@
+{
+    "response": {
+        "items": [
+            {
+                "comment_count": 2,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659903096,
+                "last_edit_date": 1659903096,
+                "creation_date": 1659711646,
+                "answer_id": 73251750,
+                "question_id": 73247907
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659900953,
+                "last_edit_date": 1659900953,
+                "creation_date": 1659705024,
+                "answer_id": 73250332,
+                "question_id": 73237289
+            },
+            {
+                "comment_count": 2,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659899600,
+                "last_edit_date": 1659899600,
+                "creation_date": 1659721423,
+                "answer_id": 73253551,
+                "question_id": 73249306
+            },
+            {
+                "comment_count": 7,
+                "is_accepted": false,
+                "score": 2,
+                "last_activity_date": 1659897995,
+                "last_edit_date": 1659897995,
+                "creation_date": 1659729478,
+                "answer_id": 73254735,
+                "question_id": 73254676
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659893533,
+                "last_edit_date": 1659893533,
+                "creation_date": 1659742626,
+                "answer_id": 73256162,
+                "question_id": 22814559
+            },
+            {
+                "comment_count": 4,
+                "is_accepted": false,
+                "score": 1,
+                "last_activity_date": 1659893300,
+                "last_edit_date": 1659893300,
+                "creation_date": 1659706789,
+                "answer_id": 73250720,
+                "question_id": 73249065
+            },
+            {
+                "comment_count": 2,
+                "is_accepted": true,
+                "score": 4,
+                "last_activity_date": 1659893171,
+                "last_edit_date": 1659893171,
+                "creation_date": 1659692941,
+                "answer_id": 73247827,
+                "question_id": 73246111
+            },
+            {
+                "comment_count": 12,
+                "is_accepted": true,
+                "score": 2,
+                "last_activity_date": 1659892603,
+                "last_edit_date": 1659892603,
+                "creation_date": 1659719651,
+                "answer_id": 73253266,
+                "question_id": 73219378
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659890111,
+                "last_edit_date": 1659890111,
+                "creation_date": 1659673028,
+                "answer_id": 73244606,
+                "question_id": 53017505
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": true,
+                "score": 0,
+                "last_activity_date": 1659890038,
+                "last_edit_date": 1659890038,
+                "creation_date": 1659686553,
+                "answer_id": 73246516,
+                "question_id": 73246131
+            },
+            {
+                "comment_count": 5,
+                "is_accepted": true,
+                "score": 2,
+                "last_activity_date": 1659888939,
+                "last_edit_date": 1659888939,
+                "creation_date": 1659693480,
+                "answer_id": 73247944,
+                "question_id": 73247820
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": true,
+                "score": 1,
+                "last_activity_date": 1659887259,
+                "last_edit_date": 1659887259,
+                "creation_date": 1659713940,
+                "answer_id": 73252220,
+                "question_id": 73188664
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659886635,
+                "last_edit_date": 1659886635,
+                "creation_date": 1659713394,
+                "answer_id": 73252094,
+                "question_id": 4764768
+            },
+            {
+                "comment_count": 7,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659886620,
+                "last_edit_date": 1659886620,
+                "creation_date": 1659720691,
+                "answer_id": 73253441,
+                "question_id": 73252838
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 2,
+                "last_activity_date": 1659883444,
+                "last_edit_date": 1659883444,
+                "creation_date": 1659693225,
+                "answer_id": 73247887,
+                "question_id": 73247370
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659878380,
+                "last_edit_date": 1659878380,
+                "creation_date": 1659699893,
+                "answer_id": 73249246,
+                "question_id": 73248663
+            },
+            {
+                "comment_count": 2,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659877598,
+                "last_edit_date": 1659877598,
+                "creation_date": 1659738985,
+                "answer_id": 73255862,
+                "question_id": 73255720
+            },
+            {
+                "comment_count": 1,
+                "is_accepted": true,
+                "score": 2,
+                "last_activity_date": 1659876429,
+                "last_edit_date": 1659876429,
+                "creation_date": 1659705630,
+                "answer_id": 73250470,
+                "question_id": 73250244
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659875453,
+                "last_edit_date": 1659875453,
+                "creation_date": 1659719760,
+                "answer_id": 73253280,
+                "question_id": 71965339
+            },
+            {
+                "comment_count": 0,
+                "is_accepted": false,
+                "score": 0,
+                "last_activity_date": 1659875404,
+                "last_edit_date": 1659875404,
+                "creation_date": 1659732585,
+                "answer_id": 73255144,
+                "question_id": 72575243
+            }
+        ],
+        "has_more": true,
+        "quota_max": 300,
+        "quota_remaining": 274,
+        "page": 1,
+        "page_size": 20,
+        "total": 136
+    },
+    "result": {
+        "total_accepted_answers": 42,
+        "accepted_answers_average_score": 1.8333333333333333,
+        "average_answers_per_question": 6.8,
+        "top_answers_comments_count": {
+            "73247827": 2,
+            "73254735": 7,
+            "73253266": 12,
+            "73247944": 5,
+            "73247887": 0,
+            "73250470": 1,
+            "73250720": 4,
+            "73252220": 0,
+            "73251750": 2,
+            "73250332": 0
+        }
+    }
+}
